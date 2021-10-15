@@ -2,7 +2,7 @@
 GreenPrint is a website created to showcase an application idea called GreenPrint.
 GreenPrint is an application that will allow users to boldly view their monthly 
 household consumption. With this data we can provide users with comparisons, solutions
-and more.
+and more. You can view the website on github pages at https://arnavpag.github.io/GreenPrint/
 
 The website is divided into 4 sections. Home, About, Features, Contact
 
