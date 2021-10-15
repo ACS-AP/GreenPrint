@@ -113,6 +113,7 @@ ul li a:hover,
 }
 
 #header-area {
+  background: url("t3.jpeg");
   background-size: cover;
   background-position: bottom;
   padding: 235px 0;
